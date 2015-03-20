@@ -1,0 +1,134 @@
+nohup: ignoring input
+In POST comment route
+cs360
+Remote User
+cs360
+Success
+I did it
+in end function
+{ Name: 'Success', Comment: 'I did it' }
+Name: Success
+Comment: I did it
+Record added as 550b775f9e7716c3549e4981
+In comment route
+4
+1
+2
+3
+Document Array: 
+[ { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5501b622cc983bf365c0b04a },
+  { Name: 'Sammy',
+    Comment: 'Fall in a well',
+    _id: 5501b62ccc983bf365c0b04b },
+  { Name: 'greg',
+    Comment: 'comment2',
+    _id: 550270dc25682e086d5f4e86 },
+  { Name: 'greg',
+    Comment: 'comment3',
+    _id: 550270f025682e086d5f4e87 },
+  { Name: 'sam',
+    Comment: 'comment4',
+    _id: 5502715b25682e086d5f4e88 },
+  { Name: 'Mickey',
+    Comment: 'Hello6',
+    _id: 55027267d71477686dbe8c18 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 55027556009fa9b66df9e663 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 5502755a009fa9b66df9e664 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 5502755e009fa9b66df9e665 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 55027565009fa9b66df9e666 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55028b240dc64ae96fff4657 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55028b2c0dc64ae96fff4658 },
+  { Name: 'Mickey',
+    Comment: 'Hello clarice',
+    _id: 550324478f16c5f2738c4da6 },
+  { Name: 'Mickey',
+    Comment: 'Hello67',
+    _id: 5508d353279077db28704e74 },
+  { Name: 'Bill McGreaham',
+    Comment: 'Look at all the comments!',
+    _id: 5508fef2279077db28704e75 },
+  { Name: 'Mickey',
+    Comment: 'Hellozzzzzzzzzzzzzz',
+    _id: 550b74ec6a1f128554d487c7 },
+  { Name: 'Lurker',
+    Comment: 'Anon comment',
+    _id: 550b75276a1f128554d487c8 },
+  { Name: 'Success',
+    Comment: 'I did it',
+    _id: 550b775f9e7716c3549e4981 } ]
+0
+In comment route
+4
+1
+2
+3
+Document Array: 
+[ { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5501b622cc983bf365c0b04a },
+  { Name: 'Sammy',
+    Comment: 'Fall in a well',
+    _id: 5501b62ccc983bf365c0b04b },
+  { Name: 'greg',
+    Comment: 'comment2',
+    _id: 550270dc25682e086d5f4e86 },
+  { Name: 'greg',
+    Comment: 'comment3',
+    _id: 550270f025682e086d5f4e87 },
+  { Name: 'sam',
+    Comment: 'comment4',
+    _id: 5502715b25682e086d5f4e88 },
+  { Name: 'Mickey',
+    Comment: 'Hello6',
+    _id: 55027267d71477686dbe8c18 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 55027556009fa9b66df9e663 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 5502755a009fa9b66df9e664 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 5502755e009fa9b66df9e665 },
+  { Name: 'Mickey',
+    Comment: 'Hello10',
+    _id: 55027565009fa9b66df9e666 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55028b240dc64ae96fff4657 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55028b2c0dc64ae96fff4658 },
+  { Name: 'Mickey',
+    Comment: 'Hello clarice',
+    _id: 550324478f16c5f2738c4da6 },
+  { Name: 'Mickey',
+    Comment: 'Hello67',
+    _id: 5508d353279077db28704e74 },
+  { Name: 'Bill McGreaham',
+    Comment: 'Look at all the comments!',
+    _id: 5508fef2279077db28704e75 },
+  { Name: 'Mickey',
+    Comment: 'Hellozzzzzzzzzzzzzz',
+    _id: 550b74ec6a1f128554d487c7 },
+  { Name: 'Lurker',
+    Comment: 'Anon comment',
+    _id: 550b75276a1f128554d487c8 },
+  { Name: 'Success',
+    Comment: 'I did it',
+    _id: 550b775f9e7716c3549e4981 } ]
+0
