@@ -22,10 +22,34 @@ var options = {
 
 app.use('/', express.static('./html', {maxAge: 60*60*1000}));
 
+
 app.get('/getcity', function (req, res) {
     console.log("In getcity route");
-    res.json([{city:"Price"},{city:"Provo"}]);
+
+        var urlObj = url.parse(req.url, true, false);
+        var myRe = new RegExp("^"+urlObj.query["q"]);
+        var jsonResult = [];
+
+
+
+        fs.readFile('cities.txt', function(err, data){
+                if(err) throw err;
+                cities = data.toString().split("\n");
+                for(var i = 0; i < cities.length; i++){
+                        var result = cities[i].search(myRe);
+                        if(result != -1){
+                                console.log(cities[i]);
+                                jsonResult.push({city:cities[i]});
+                        }
+                }
+                console.log((jsonResult));
+                res.json(jsonResult);
+
+        });
+
+
   });
+
 
 
 app.get('/comment', function (req, res) {
